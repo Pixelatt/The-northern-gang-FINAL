@@ -55,13 +55,8 @@ struct ContentView: View {
                     .font(.system(size:10))
                     .foregroundColor(.pink)
                     .padding()
-                    
-                    
-                    
-                    
                 }
             }
-           
         }
     }
 }
