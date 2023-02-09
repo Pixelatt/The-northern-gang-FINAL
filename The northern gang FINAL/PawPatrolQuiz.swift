@@ -3,7 +3,7 @@
 //  The northern gang FINAL
 //
 //  Created by T Krobot on 15/6/22.
-//
+
 
 import SwiftUI
 
